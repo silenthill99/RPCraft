@@ -1,0 +1,125 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "IPhone",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "i_phone"
+    },
+    {
+      "name": "Route",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "route"
+    },
+    {
+      "name": "RouteLigneBlanche",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "route_ligne_blanche"
+    },
+    {
+      "name": "RouteLigneBlanche2",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "route_ligne_blanche_2"
+    },
+    {
+      "name": "RouteVirage1",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "route_virage_1"
+    },
+    {
+      "name": "RouteVirage2",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "route_virage_2"
+    },
+    {
+      "name": "RouteVirage3",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "route_virage_3"
+    },
+    {
+      "name": "RouteVirage4",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "route_virage_4"
+    },
+    {
+      "name": "Frite",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frite"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.roleplaycraft:i_phone.name": "I Phone",
+      "tile.roleplaycraft:route_virage_2.name": "Route Virage 1",
+      "tile.roleplaycraft:route_virage_4.name": "Route Virage 1",
+      "item.roleplaycraft:frite.name": "Frite",
+      "tile.roleplaycraft:route.name": "Route",
+      "tile.roleplaycraft:route_virage_1.name": "Route Virage 1",
+      "tile.roleplaycraft:route_ligne_blanche.name": "Route Ligne Blanche",
+      "tile.roleplaycraft:route_ligne_blanche_2.name": "Route Ligne Blanche 2",
+      "tile.roleplaycraft:route_virage_3.name": "Route Virage 1"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "roleplaycraft",
+    "modName": "RolePlayCraft",
+    "version": "1.0.0",
+    "author": "User, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Microsoft Reciprocal License (Ms-RL)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.16.x",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.roleplaycraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

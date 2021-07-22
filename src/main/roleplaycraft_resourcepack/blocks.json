@@ -1,0 +1,84 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "roleplaycraft:route": {
+    "textures": {
+      "up": "roleplaycraft_route_up",
+      "down": "roleplaycraft_route_down",
+      "south": "roleplaycraft_route_south",
+      "north": "roleplaycraft_route_north",
+      "west": "roleplaycraft_route_west",
+      "east": "roleplaycraft_route_east"
+    },
+    "sound": "gravel"
+  },
+  "roleplaycraft:route_ligne_blanche": {
+    "textures": {
+      "up": "roleplaycraft_route_ligne_blanche_up",
+      "down": "roleplaycraft_route_ligne_blanche_down",
+      "south": "roleplaycraft_route_ligne_blanche_south",
+      "north": "roleplaycraft_route_ligne_blanche_north",
+      "west": "roleplaycraft_route_ligne_blanche_west",
+      "east": "roleplaycraft_route_ligne_blanche_east"
+    },
+    "sound": "gravel"
+  },
+  "roleplaycraft:route_ligne_blanche_2": {
+    "textures": {
+      "up": "roleplaycraft_route_ligne_blanche_2_up",
+      "down": "roleplaycraft_route_ligne_blanche_2_down",
+      "south": "roleplaycraft_route_ligne_blanche_2_south",
+      "north": "roleplaycraft_route_ligne_blanche_2_north",
+      "west": "roleplaycraft_route_ligne_blanche_2_west",
+      "east": "roleplaycraft_route_ligne_blanche_2_east"
+    },
+    "sound": "gravel"
+  },
+  "roleplaycraft:route_virage_1": {
+    "textures": {
+      "up": "roleplaycraft_route_virage_1_up",
+      "down": "roleplaycraft_route_virage_1_down",
+      "south": "roleplaycraft_route_virage_1_south",
+      "north": "roleplaycraft_route_virage_1_north",
+      "west": "roleplaycraft_route_virage_1_west",
+      "east": "roleplaycraft_route_virage_1_east"
+    },
+    "sound": "gravel"
+  },
+  "roleplaycraft:route_virage_2": {
+    "textures": {
+      "up": "roleplaycraft_route_virage_2_up",
+      "down": "roleplaycraft_route_virage_2_down",
+      "south": "roleplaycraft_route_virage_2_south",
+      "north": "roleplaycraft_route_virage_2_north",
+      "west": "roleplaycraft_route_virage_2_west",
+      "east": "roleplaycraft_route_virage_2_east"
+    },
+    "sound": "gravel"
+  },
+  "roleplaycraft:route_virage_3": {
+    "textures": {
+      "up": "roleplaycraft_route_virage_3_up",
+      "down": "roleplaycraft_route_virage_3_down",
+      "south": "roleplaycraft_route_virage_3_south",
+      "north": "roleplaycraft_route_virage_3_north",
+      "west": "roleplaycraft_route_virage_3_west",
+      "east": "roleplaycraft_route_virage_3_east"
+    },
+    "sound": "gravel"
+  },
+  "roleplaycraft:route_virage_4": {
+    "textures": {
+      "up": "roleplaycraft_route_virage_4_up",
+      "down": "roleplaycraft_route_virage_4_down",
+      "south": "roleplaycraft_route_virage_4_south",
+      "north": "roleplaycraft_route_virage_4_north",
+      "west": "roleplaycraft_route_virage_4_west",
+      "east": "roleplaycraft_route_virage_4_east"
+    },
+    "sound": "gravel"
+  }
+}

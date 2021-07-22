@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "frite": {
+      "textures": "textures/items/frites"
+    },
+    "i_phone": {
+      "textures": "textures/items/iphone"
+    }
+  }
+}

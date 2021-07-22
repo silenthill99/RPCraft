@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "RolePlayCraft",
+    "uuid": "0f49373f-9d9c-333c-bd26-ea699535a084",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "0bf568c7-54a3-3bd5-8a6f-d83874922533",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "ed3183e1-2d8d-33c9-bf5e-81b585dd1471",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "User, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "roleplaycraft_route_up": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_down": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_south": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_north": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_west": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_east": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_up": {
+      "textures": [
+        "textures/blocks/ligne_blanche"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_down": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_south": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_north": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_west": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_east": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_2_up": {
+      "textures": [
+        "textures/blocks/ligne_blanche_2"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_2_down": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_2_south": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_2_north": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_2_west": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_ligne_blanche_2_east": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_1_up": {
+      "textures": [
+        "textures/blocks/virage1"
+      ]
+    },
+    "roleplaycraft_route_virage_1_down": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_1_south": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_1_north": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_1_west": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_1_east": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_2_up": {
+      "textures": [
+        "textures/blocks/virage2"
+      ]
+    },
+    "roleplaycraft_route_virage_2_down": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_2_south": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_2_north": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_2_west": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_2_east": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_3_up": {
+      "textures": [
+        "textures/blocks/virage3"
+      ]
+    },
+    "roleplaycraft_route_virage_3_down": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_3_south": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_3_north": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_3_west": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_3_east": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_4_up": {
+      "textures": [
+        "textures/blocks/virage4"
+      ]
+    },
+    "roleplaycraft_route_virage_4_down": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_4_south": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_4_north": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_4_west": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    },
+    "roleplaycraft_route_virage_4_east": {
+      "textures": [
+        "textures/blocks/route"
+      ]
+    }
+  }
+}
